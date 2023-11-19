@@ -9,6 +9,7 @@ services:
       MYSQL_DATABASE: taskDB
       MYSQL_ROOT_PASSWORD: "whalsdn1!"
       MYSQL_ROOT_HOST: '%'
+      LC_ALL: C.UTF-8
     command: mysqld --default-authentication-plugin=mysql_native_password --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
     volumes:
       - "/home/minwoo/DBMS/data:/var/lib/mysql"

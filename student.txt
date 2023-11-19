@@ -1,0 +1,14 @@
+========TA========
+2019038004 1 조민우 chminoo@g.cbnu.ac.kr
+1234512345 2 현사 ucminoo@chungbuk.ac.kr
+========STU=======
+103820489 1 시스템 cslab@cslab.cbnu.ac.kr
+103824123 1 김스템 csleb@cslab.cbnu.ac.kr
+103820454 1 박스템 lab@cslab.cbnu.ac.kr
+103820234 1 이스템 ab@cslab.cbnu.ac.kr
+103820134 1 조스템 casdb@cslab.cbnu.ac.kr
+103412389 2 김디비 kdb@cslab.cbnu.ac.kr
+103786482 2 박디비 bdb@cslab.cbnu.ac.kr
+103820541 2 이디비 edb@cslab.cbnu.ac.kr
+103825342 2 아디비 adb@cslab.cbnu.ac.kr
+103890394 2 노디비 ndb@cslab.cbnu.ac.kr
